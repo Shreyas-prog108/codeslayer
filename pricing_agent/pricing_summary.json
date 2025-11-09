@@ -1,0 +1,90 @@
+{
+  "rfp_id": "RFP-2025-001",
+  "pricing_table": [
+    {
+      "line_id": 1,
+      "scope_item": "4C 10 sqmm Copper Cable",
+      "quantity": 500,
+      "recommended_pricing": [
+        {
+          "sku": "CBL014",
+          "spec_match": 0.92,
+          "product_name": "Control Cable 2.5 sqmm x 6C",
+          "base_price": 165.0,
+          "unit": "meter",
+          "product_type": "Cable",
+          "total_price": 82500.0
+        },
+        {
+          "sku": "CBL009",
+          "spec_match": 0.89,
+          "product_name": "FRLS Copper Wire 1.5 sqmm",
+          "base_price": 60.0,
+          "unit": "meter",
+          "product_type": "Wire",
+          "total_price": 30000.0
+        },
+        {
+          "sku": "CBL007",
+          "spec_match": 0.87,
+          "product_name": "Aluminium Power Cable 25 sqmm",
+          "base_price": 190.0,
+          "unit": "meter",
+          "product_type": "Cable",
+          "total_price": 95000.0
+        }
+      ],
+      "included_sku": "CBL014",
+      "included_total_price": 82500.0
+    },
+    {
+      "line_id": 2,
+      "scope_item": "3C 6 sqmm Aluminium Armoured Cable",
+      "quantity": 300,
+      "recommended_pricing": [
+        {
+          "sku": "CBL011",
+          "spec_match": 0.93,
+          "product_name": "Heat Resistant Cable 6 sqmm",
+          "base_price": 120.0,
+          "unit": "meter",
+          "product_type": "Cable",
+          "total_price": 36000.0
+        },
+        {
+          "sku": "CBL008",
+          "spec_match": 0.89,
+          "product_name": "Aluminium Armoured Cable 35 sqmm",
+          "base_price": 230.0,
+          "unit": "meter",
+          "product_type": "Cable",
+          "total_price": 69000.0
+        },
+        {
+          "sku": "CBL010",
+          "spec_match": 0.85,
+          "product_name": "FRLS Copper Wire 2.5 sqmm",
+          "base_price": 70.0,
+          "unit": "meter",
+          "product_type": "Wire",
+          "total_price": 21000.0
+        }
+      ],
+      "included_sku": "CBL011",
+      "included_total_price": 36000.0
+    }
+  ],
+  "matched_tests": [
+    {
+      "test_name": "Insulation Resistance Test",
+      "test_type": "Electrical",
+      "unit_cost": 950.0,
+      "duration_days": 1
+    }
+  ],
+  "summary": {
+    "total_material_cost": 118500.0,
+    "total_test_cost": 950.0,
+    "overall_project_cost": 119450.0
+  }
+}

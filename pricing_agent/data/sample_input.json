@@ -1,0 +1,32 @@
+{
+  "rfp_id": "RFP-2025-001",
+  "rfp_summary": {
+    "tests": [
+      "Factory Acceptance Test (FAT)",
+      "Site Acceptance Test (SAT)",
+      "Insulation Resistance Test"
+    ]
+  },
+  "technical_table": [
+    {
+      "line_id": 1,
+      "scope_item": "4C 10 sqmm Copper Cable",
+      "quantity": 500,
+      "recommended": [
+        { "sku": "CBL014", "spec_match": 0.92 },
+        { "sku": "CBL009", "spec_match": 0.89 },
+        { "sku": "CBL007", "spec_match": 0.87 }
+      ]
+    },
+    {
+      "line_id": 2,
+      "scope_item": "3C 6 sqmm Aluminium Armoured Cable",
+      "quantity": 300,
+      "recommended": [
+        { "sku": "CBL011", "spec_match": 0.93 },
+        { "sku": "CBL008", "spec_match": 0.89 },
+        { "sku": "CBL010", "spec_match": 0.85 }
+      ]
+    }
+  ]
+}

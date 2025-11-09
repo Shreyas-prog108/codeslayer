@@ -1,0 +1,2992 @@
+[
+  {
+    "title": "Active Tenders",
+    "url": "https://etenders.gov.in/eprocure/app?page=FrontEndLatestActiveTenders&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Closing Date",
+    "url": "https://etenders.gov.in/eprocure/app?page=FrontEndListTendersbyDate&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Results of Tenders",
+    "url": "https://etenders.gov.in/eprocure/app?page=ResultOfTenders&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Location",
+    "url": "https://etenders.gov.in/eprocure/app?page=FrontEndTendersByLocation&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Organisation",
+    "url": "https://etenders.gov.in/eprocure/app?page=FrontEndTendersByOrganisation&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Classification",
+    "url": "https://etenders.gov.in/eprocure/app?page=FrontEndTendersByClassification&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders in Archive",
+    "url": "https://etenders.gov.in/eprocure/app?page=FrontEndTendersInArchive&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Status",
+    "url": "https://etenders.gov.in/eprocure/app?page=WebTenderStatusLists&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Cancelled/Retendered",
+    "url": "https://etenders.gov.in/eprocure/app?page=WebCancelledTenderLists&service=page",
+    "due_date": null
+  },
+  {
+    "title": "2. BOQ for Tender",
+    "url": "https://etenders.gov.in/eprocure/app?component=%24DirectLink_0&page=Home&service=direct&session=T&sp=S1G3zRMH6M9mmYDSDNjSZJQ%3D%3D",
+    "due_date": null
+  },
+  {
+    "title": "3. PREBID Points",
+    "url": "https://etenders.gov.in/eprocure/app?component=%24DirectLink_0&page=Home&service=direct&session=T&sp=SCrIXue%2FIXk9hedBfJhMYiQ%3D%3D",
+    "due_date": null
+  },
+  {
+    "title": "Online Bidder Enrollment",
+    "url": "https://etenders.gov.in/eprocure/app?component=%24WebHomeBorder.%24WebRightMenu.%24DirectLink&page=Home&service=direct&session=T",
+    "due_date": null
+  },
+  {
+    "title": "Help For Contractors",
+    "url": "https://etenders.gov.in/eprocure/app?page=HelpForContractors&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Guidelines for Hassle Free Bid Submission",
+    "url": "https://eprocure.gov.in/cppp/hassle_free_bid_submission.pdf",
+    "due_date": null
+  },
+  {
+    "title": "Bidders Manual Kit",
+    "url": "https://etenders.gov.in/eprocure/app?page=BiddersManualKit&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Bids",
+    "url": "javascript: void(0)",
+    "due_date": null
+  },
+  {
+    "title": "Ongoing Bids",
+    "url": "https://gem.gov.in/page/url_track/?q=https://bidplus.gem.gov.in/advance-search ",
+    "due_date": null
+  },
+  {
+    "title": "Bid/RA Status",
+    "url": "https://gem.gov.in/page/url_track/?q=https://bidplus.gem.gov.in/bidresultlists",
+    "due_date": null
+  },
+  {
+    "title": "View Contracts",
+    "url": "https://gem.gov.in/view_contracts",
+    "due_date": null
+  },
+  {
+    "title": "Railways Contracts",
+    "url": "javascript: void(0)",
+    "due_date": null
+  },
+  {
+    "title": "Supply Contracts",
+    "url": "https://www.ireps.gov.in/epsn/anonymSearchPO.do?searchParam=showPageSupply&language=en",
+    "due_date": null
+  },
+  {
+    "title": "CPPP tenders",
+    "url": "https://gem.gov.in/cppp",
+    "due_date": null
+  },
+  {
+    "title": "Bids",
+    "url": "javascript:void(0);",
+    "due_date": null
+  },
+  {
+    "title": "List of Bids",
+    "url": "https://bidplus.gem.gov.in/all-bids",
+    "due_date": null
+  },
+  {
+    "title": "Railways Bids",
+    "url": "https://bidnext.gem.gov.in/bidnext/public.jsp",
+    "due_date": null
+  },
+  {
+    "title": "Custom Bid for Services",
+    "url": "https://mkp.gem.gov.in/services#!/browse/services_home_cust/open",
+    "due_date": null
+  },
+  {
+    "title": "View Contracts",
+    "url": "https://gem.gov.in/tenders",
+    "due_date": null
+  },
+  {
+    "title": "GeM Contracts",
+    "url": "https://gem.gov.in/view_contracts",
+    "due_date": null
+  },
+  {
+    "title": "Railways Contracts",
+    "url": "https://gem.gov.in/tenders",
+    "due_date": null
+  },
+  {
+    "title": "Procurement Data",
+    "url": "https://gem.gov.in/cppp-procurement-data",
+    "due_date": null
+  },
+  {
+    "title": "Important Update: Mandatory Brand Registration for Custom Bids Ef...",
+    "url": "https://gem.gov.in/news/view_news/371",
+    "due_date": null
+  },
+  {
+    "title": "Active Tenders",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Closing Date",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=FrontEndListTendersbyDate&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Results of Tenders",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=ResultOfTenders&service=page",
+    "due_date": null
+  },
+  {
+    "title": "« Order regarding implementation of e-procurement dated 30-09-2011",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=WebAnnouncements&service=page#198",
+    "due_date": "2011-09-30"
+  },
+  {
+    "title": "« Circular Dated 27-04-2020 regarding deposit of bid document fees, bid security and RISL processing fees on e-GRAS through single challan",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=WebAnnouncements&service=page#159",
+    "due_date": "2020-04-27"
+  },
+  {
+    "title": "« Reduction in threshold limit for e-procurement from 01 September, 2016",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=WebAnnouncements&service=page#70",
+    "due_date": null
+  },
+  {
+    "title": "« Department Users are recommended to select 2 of 4 Bid Openers option in tender creation stage.",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=WebAnnouncements&service=page#120",
+    "due_date": null
+  },
+  {
+    "title": "« The issue of Corrigendum to change BOQ (Price Bid template / Financial Bid) after attaining Bid Submission Start Date is not available in the system.",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=WebAnnouncements&service=page#118",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Location",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=FrontEndTendersByLocation&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Organisation",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=FrontEndTendersByOrganisation&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Classification",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=FrontEndTendersByClassification&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders in Archive",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=FrontEndTendersInArchive&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Status",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=WebTenderStatusLists&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Cancelled/Retendered",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=WebCancelledTenderLists&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Online Bidder Enrollment",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24WebHomeBorder.%24WebRightMenu.%24DirectLink&page=Home&service=direct&session=T",
+    "due_date": null
+  },
+  {
+    "title": "Help For Contractors",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=HelpForContractors&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Bidders Manual Kit",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app?page=BiddersManualKit&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Active Tenders",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Closing Date",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=FrontEndListTendersbyDate&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Results of Tenders",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=ResultOfTenders&service=page",
+    "due_date": null
+  },
+  {
+    "title": "« From 15th August 2024 application fees of Rs 500 per bid shall be charged from the bidders",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=WebAnnouncements&service=page#388",
+    "due_date": null
+  },
+  {
+    "title": "« Bidders who are using SB MOPS other banks Internet Banking are requested to make online payment four days in advance.",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=WebAnnouncements&service=page#77",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Location",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=FrontEndTendersByLocation&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Organisation",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=FrontEndTendersByOrganisation&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Classification",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=FrontEndTendersByClassification&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders in Archive",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=FrontEndTendersInArchive&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Status",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=WebTenderStatusLists&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Cancelled/Retendered",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=WebCancelledTenderLists&service=page",
+    "due_date": null
+  },
+  {
+    "title": "6. V.P.Tender Notice No.1/2025-2026",
+    "url": "https://mahatenders.gov.in/nicgep/app?component=%24DirectLink&page=Home&service=direct&session=T&sp=SglNH0NN41zz%2FKSFMWI9P%2FA%3D%3D",
+    "due_date": null
+  },
+  {
+    "title": "10. Date E Tender for Canteen on Leave and Licence basis at MSRTC ST BUS Stand Parbhani secound",
+    "url": "https://mahatenders.gov.in/nicgep/app?component=%24DirectLink_0&page=Home&service=direct&session=T&sp=S10kfowrs5H0S92u32eBATg%3D%3D",
+    "due_date": null
+  },
+  {
+    "title": "Online Bidder Enrollment",
+    "url": "https://mahatenders.gov.in/nicgep/app?component=%24WebHomeBorder.%24WebRightMenu.%24DirectLink&page=Home&service=direct&session=T",
+    "due_date": null
+  },
+  {
+    "title": "Help For Contractors",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=HelpForContractors&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Bidders Manual Kit",
+    "url": "https://mahatenders.gov.in/nicgep/app?page=BiddersManualKit&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Bidders",
+    "url": "https://www.gepnic.gov.in/#bidders",
+    "due_date": null
+  },
+  {
+    "title": "Global Procurement Summit 2025",
+    "url": "https://gepnic.gov.in/show_content.php?lang=1&catid=152&lid=152",
+    "due_date": null
+  },
+  {
+    "title": "National Workshop on Electronic Procurement - 2023",
+    "url": "https://gepnic.gov.in/show_content.php?lang=1&catid=134&lid=134",
+    "due_date": null
+  },
+  {
+    "title": "Global Procurement Summit 2020",
+    "url": "https://gepnic.gov.in/show_content.php?lang=1&catid=106&lid=106",
+    "due_date": null
+  },
+  {
+    "title": "VIEW ALLGlobal Procurement Summit 2019",
+    "url": "https://gepnic.gov.in/show_content.php?lang=1&catid=32&lid=32",
+    "due_date": null
+  },
+  {
+    "title": "Active Tenders",
+    "url": "https://demoeproc.nic.in/epublish/app?page=FrontEndLatestActiveTenders&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Closing Date",
+    "url": "https://demoeproc.nic.in/epublish/app?page=FrontEndListTendersbyDate&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Bid Awards",
+    "url": "https://demoeproc.nic.in/epublish/app?page=ResultOfTenders&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Location",
+    "url": "https://demoeproc.nic.in/epublish/app?page=FrontEndTendersByLocation&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Classification",
+    "url": "https://demoeproc.nic.in/epublish/app?page=FrontEndTendersByClassification&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Tenders in Archive",
+    "url": "https://demoeproc.nic.in/epublish/app?page=FrontEndTendersInArchive&service=page",
+    "due_date": null
+  },
+  {
+    "title": "Defence eProcurement",
+    "url": "https://defproc.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "PMGSY eProcurement",
+    "url": "http://pmgsytenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "BEL eProcurement",
+    "url": "http://eprocurebel.co.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "CIL eProcurement",
+    "url": "https://coalindiatenders.nic.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "CPCL eProcurement",
+    "url": "https://cpcletenders.nic.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "GSL eProcurement",
+    "url": "http://eprocuregsl.nic.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "HSL eProcurement",
+    "url": "http://eprocurehsl.nic.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "IOCL eProcurement",
+    "url": "https://iocletenders.nic.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "MDL eProcurement",
+    "url": "http://eprocuremdl.nic.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "MIDHANI eProcurement",
+    "url": "http://eprocuremidhani.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "NTPC eProcurement",
+    "url": "https://eprocurentpc.nic.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "SCCL eProcurement",
+    "url": "http://singareni-tenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "VPT eProcurement",
+    "url": "https://vpttenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Arunachal Pradesh eProcurement",
+    "url": "https://arunachaltenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Assam eProcurement",
+    "url": "https://assamtenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Chandigarh eProcurement",
+    "url": "https://etenders.chd.nic.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Dadra and Nagar Haveli eProcurement",
+    "url": "https://dnhtenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Daman and Diu eProcurement",
+    "url": "https://ddtenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "NCT of Delhi eProcurement",
+    "url": "https://govtprocurement.delhi.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Haryana eProcurement",
+    "url": "https://etenders.hry.nic.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Himachal Pradesh eProcurement",
+    "url": "https://hptenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Jammu and Kashmir eProcurement",
+    "url": "https://jktenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Jharkhand eProcurement",
+    "url": "https://jharkhandtenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Kerala eProcurement",
+    "url": "https://etenders.kerala.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Lakshadweep eProcurement",
+    "url": "https://tendersutl.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Maharashtra eProcurement",
+    "url": "https://mahatenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Manipur eProcurement",
+    "url": "https://manipurtenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Meghalaya eProcurement",
+    "url": "https://meghalayatenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Mizoram eProcurement",
+    "url": "https://mizoramtenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Nagaland eProcurement",
+    "url": "https://nagalandtenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Odisha eProcurement",
+    "url": "https://tendersodisha.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Puducherry eProcurement",
+    "url": "https://pudutenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Punjab eProcurement",
+    "url": "https://eproc.punjab.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Rajasthan eProcurement",
+    "url": "https://eproc.rajasthan.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Sikkim eProcurement",
+    "url": "https://sikkimtender.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Tamil Nadu eProcurement",
+    "url": "https://tntenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Tripura eProcurement",
+    "url": "https://tripuratenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Uttarkhand eProcurement",
+    "url": "https://uktenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "Uttar Pradesh eProcurement",
+    "url": "https://etender.up.nic.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "West Bengal eProcurement",
+    "url": "https://wbtenders.gov.in/nicgep/app",
+    "due_date": null
+  },
+  {
+    "title": "TenderTone",
+    "url": "https://www.dgmarket.com/tenders/tenderTone.do",
+    "due_date": null
+  },
+  {
+    "title": "Government procurement",
+    "url": "https://www.dgmarket.com/tenders/list.do",
+    "due_date": null
+  },
+  {
+    "title": "Procurement News",
+    "url": "https://www.dgmarket.com/tenders/newsList.do",
+    "due_date": null
+  },
+  {
+    "title": "Tenders of international agencies",
+    "url": "https://www.dgmarket.com/tenders/list.do?buyerId=1",
+    "due_date": null
+  },
+  {
+    "title": "Procurement of the services of a Hydro Expert – Support to development of hydropower projects with PLN",
+    "url": "https://www.dgmarket.com/tender/99075646",
+    "due_date": null
+  },
+  {
+    "title": "RFQ-UESF-2025-0084-153 Procurement of protective structures",
+    "url": "https://www.dgmarket.com/tender/100142341",
+    "due_date": null
+  },
+  {
+    "title": "RFQ-UESF-2025-0074-1-154 Procurement of complete closed type switchgear",
+    "url": "https://www.dgmarket.com/tender/100142342",
+    "due_date": null
+  },
+  {
+    "title": "Request for Proposals- \"Selection of Consultant for Provision of Expert Services as Construction Management and Contract Administration Expert",
+    "url": "https://www.dgmarket.com/tender/100029141",
+    "due_date": null
+  },
+  {
+    "title": "Browse all tenders >",
+    "url": "https://www.dgmarket.com/tenders/list.do",
+    "due_date": null
+  },
+  {
+    "title": "Procurement Regulations",
+    "url": "https://www.dgmarket.com/tenders/rules.do",
+    "due_date": null
+  },
+  {
+    "title": "Indian Tenders",
+    "url": "https://www.tendersinfo.com/tenders-by-state.php",
+    "due_date": null
+  },
+  {
+    "title": "Tenders",
+    "url": "https://www.tendersinfo.com/tenders-by-country.php",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By Sector",
+    "url": "https://www.tendersinfo.com/tenders-by-country.php",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Region",
+    "url": "https://www.tendersinfo.com/tender-details.php",
+    "due_date": null
+  },
+  {
+    "title": "Africa Tenders",
+    "url": "https://www.tendersinfo.com/global-africa-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Asia Pacific Tenders",
+    "url": "https://www.tendersinfo.com/global-asia-pacific-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Balkan Region Tenders",
+    "url": "https://www.tendersinfo.com/global-balkan-region-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Europe Tenders",
+    "url": "https://www.tendersinfo.com/global-europe-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Country",
+    "url": "https://www.tendersinfo.com/tender-listing.php",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By Products/Services/CPV",
+    "url": "https://www.tendersinfo.com/tenders-by-country.php",
+    "due_date": null
+  },
+  {
+    "title": "Chemical products Tenders",
+    "url": "https://www.tendersinfo.com/global-chemicals-chemical-products-and-man-made-fibres-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Construction materials Tenders",
+    "url": "https://www.tendersinfo.com/global-construction-materials-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Fabricated products and materials Tenders",
+    "url": "https://www.tendersinfo.com/global-fabricated-products-and-materials-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Road construction works Tenders",
+    "url": "https://www.tendersinfo.com/global-road-construction-works-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Contract Awards",
+    "url": "https://www.tendersinfo.com/tenders-by-country.php",
+    "due_date": null
+  },
+  {
+    "title": "Contract Awards By Sector",
+    "url": "https://www.tendersinfo.com/tenders-by-country.php",
+    "due_date": null
+  },
+  {
+    "title": "Contract Awards by Region",
+    "url": "https://www.tendersinfo.com/tenders-by-country.php",
+    "due_date": null
+  },
+  {
+    "title": "Africa Contracts",
+    "url": "https://www.tendersinfo.com/africa-contracts.php",
+    "due_date": null
+  },
+  {
+    "title": "Asia Pacific Contracts",
+    "url": "https://www.tendersinfo.com/asia-pacific-contracts.php",
+    "due_date": null
+  },
+  {
+    "title": "Balkan Region Contracts",
+    "url": "https://www.tendersinfo.com/balkan-region-contracts.php",
+    "due_date": null
+  },
+  {
+    "title": "Europe Contracts",
+    "url": "https://www.tendersinfo.com/europe-contracts.php",
+    "due_date": null
+  },
+  {
+    "title": "Contract Awards by Country",
+    "url": "https://www.tendersinfo.com/tenders-by-country.php",
+    "due_date": null
+  },
+  {
+    "title": "Procurement News By Sector",
+    "url": "https://www.tendersinfo.com/tenders-by-country.php",
+    "due_date": null
+  },
+  {
+    "title": "Procurement News by Region",
+    "url": "https://www.tendersinfo.com/tenders-by-country.php",
+    "due_date": null
+  },
+  {
+    "title": "Procurement News by Country",
+    "url": "https://www.tendersinfo.com/tenders-by-country.php",
+    "due_date": null
+  },
+  {
+    "title": "BID Advisory",
+    "url": "https://www.tendersinfo.com/bid_advisory",
+    "due_date": null
+  },
+  {
+    "title": "Bid Management Software",
+    "url": "https://www.tendersinfo.com/bid-management-software/",
+    "due_date": null
+  },
+  {
+    "title": "E Procurement",
+    "url": "https://www.tendersinfo.com/eProcurement",
+    "due_date": null
+  },
+  {
+    "title": "TENDERS BY PRODUCT",
+    "url": "https://www.tendersinfo.com/tenders-by-product.php",
+    "due_date": null
+  },
+  {
+    "title": "Transmission Line Tenders",
+    "url": "https://www.tendersinfo.com/global-transmission-lines-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Solar Thermal System tenders",
+    "url": "https://www.tendersinfo.com/global-solar-thermal-systems-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Traffic Signal Lights Tenders",
+    "url": "https://www.tendersinfo.com/global-traffic-signal-lights-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Traffic and Road Signs Tenders",
+    "url": "https://www.tendersinfo.com/global-traffic-sign-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Railway Signalling Tenders",
+    "url": "https://www.tendersinfo.com/global-railway-signalling-and-telecom-equipment-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Airport Lightning Tenders",
+    "url": "https://www.tendersinfo.com/global-airport-lighting-system-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Traffic Signs Tenders",
+    "url": "https://www.tendersinfo.com/global-traffic-sign-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Attack Aircraft Tenders",
+    "url": "https://www.tendersinfo.com/global-attack-aircrafts-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Defence Helicopters tenders",
+    "url": "https://www.tendersinfo.com/global-defense-military-helicopter-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Remote Sensing Tenders",
+    "url": "https://www.tendersinfo.com/global-remote-sensing-software-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Satellite Imaginery Tenders",
+    "url": "https://www.tendersinfo.com/global-satellite-imagery-imaging-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Gas Billing System Tenders",
+    "url": "https://www.tendersinfo.com/global-gas-billing-system-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Energy billing System Tenders",
+    "url": "https://www.tendersinfo.com/global-energy-billing-system-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Water Billing System Tenders",
+    "url": "https://www.tendersinfo.com/global-water-billing-system-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Renewable Energy Tenders",
+    "url": "https://www.tendersinfo.com/global-energy-and-power-renewable-energy-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Fire Fighting Vehicles Tenders",
+    "url": "https://www.tendersinfo.com/global-firefighting-vehicles-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Bio Metric System Tenders",
+    "url": "https://www.tendersinfo.com/global-bio-metric-system-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Fire Protective Clothing Tenders",
+    "url": "https://www.tendersinfo.com/global-fire-protective-clothing-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Energy Management Tenders",
+    "url": "https://www.tendersinfo.com/global-energy-management-control-system-emcs-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "Satellite Telephones Tenders",
+    "url": "https://www.tendersinfo.com/global-satellite-telephones-tenders.php",
+    "due_date": null
+  },
+  {
+    "title": "TENDERS BY COUNTRIES",
+    "url": "https://www.tendersinfo.com/tenders-by-country.php",
+    "due_date": null
+  },
+  {
+    "title": "CONTRACT AWARDS BY SECTOR",
+    "url": "https://www.tendersinfo.com/contracts-by-sector.php",
+    "due_date": null
+  },
+  {
+    "title": "Infrastructure & Construction Contract",
+    "url": "https://www.tendersinfo.com/infrastructure-and-construction-projects.php",
+    "due_date": null
+  },
+  {
+    "title": "Transportation Contract",
+    "url": "https://www.tendersinfo.com/transportation-contracts.php",
+    "due_date": null
+  },
+  {
+    "title": "Water & Sanitation Contract",
+    "url": "https://www.tendersinfo.com/water-and-sanitation-contracts.php",
+    "due_date": null
+  },
+  {
+    "title": "Chemical Contract",
+    "url": "https://www.tendersinfo.com/chemical-contracts.php",
+    "due_date": null
+  },
+  {
+    "title": "Covid-19 Tenders",
+    "url": "https://www.tendersinfo.com//covid-19/",
+    "due_date": null
+  },
+  {
+    "title": "India States Tenders",
+    "url": "https://www.tendersinfo.com/tenders-by-state.php",
+    "due_date": null
+  },
+  {
+    "title": "China Bids",
+    "url": "https://www.tendersinfo.com/china-bids",
+    "due_date": null
+  },
+  {
+    "title": "Government Bids",
+    "url": "https://www.tendersinfo.com/government-bids",
+    "due_date": null
+  },
+  {
+    "title": "Publish Tenders",
+    "url": "https://www.tendersinfo.com/publishtenders/",
+    "due_date": null
+  },
+  {
+    "title": "Funding Agency Tenders",
+    "url": "https://www.tendersinfo.com/myfund",
+    "due_date": null
+  },
+  {
+    "title": "Global Tenders",
+    "url": "https://www.biddetail.com/global-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Contract Award",
+    "url": "https://www.biddetail.com/contract-awarded",
+    "due_date": null
+  },
+  {
+    "title": "Procurement News",
+    "url": "https://www.biddetail.com/procurement-news",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By Country",
+    "url": "https://www.biddetail.com/country-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Bid Consultancy Services",
+    "url": "https://www.biddetail.com/bid-consultancy",
+    "due_date": null
+  },
+  {
+    "title": "Tenders are invited for Upgrade Of The Nolungile Public Transport Interchange.",
+    "url": "https://www.biddetail.com/free-tenders/103934393$8b4c680d-eb59-48d2-8add-abbfbb0773e7",
+    "due_date": null
+  },
+  {
+    "title": "Procurement Plan For Acquisition Of Furniture And Air Condit......",
+    "url": "https://www.biddetail.com/latest-tenders/104146394$8111e88a-d748-4b2c-97bc-83a6900b71b7",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Are Invited For Supply, Installation, Configuration,......",
+    "url": "https://www.biddetail.com/latest-tenders/104111139$6a039d92-d14d-46b8-bf4f-1cacb4294887",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Are Invited For Change Of Use Of An Existing Buildin......",
+    "url": "https://www.biddetail.com/latest-tenders/104111138$abb3a367-da30-474d-8dd3-d527ddca341c",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Are Invited For Restoration Of The Entrance To The K......",
+    "url": "https://www.biddetail.com/latest-tenders/104111137$69b40760-993e-4486-8b9e-3d298fc6da3d",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Are Invited For Medical Consumables – Tender For The......",
+    "url": "https://www.biddetail.com/latest-tenders/104097229$521ecc8c-2722-48de-9bb3-f071e6370e8b",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Are Invited For Telephone Equipment – ​​Yspt(8)/036/......",
+    "url": "https://www.biddetail.com/latest-tenders/104097141$1c9db1ff-842f-4bd9-9e9e-edc698f0f1fa",
+    "due_date": null
+  },
+  {
+    "title": "Tenders are invited for Call For Registration In Supplier Li......",
+    "url": "https://www.biddetail.com/latest-tenders/104146465$9ba1c1ac-d061-4f31-959a-513b6d3903cb",
+    "due_date": null
+  },
+  {
+    "title": "Tenders are invited for Cash Assistance Was Transferred To 4......",
+    "url": "https://www.biddetail.com/latest-tenders/104146463$edb31f57-6de5-4d9a-a492-1f99fd8f3da3",
+    "due_date": null
+  },
+  {
+    "title": "Tenders are invited for Individual Consultant Services: Tada......",
+    "url": "https://www.biddetail.com/latest-tenders/104146239$ca6bc027-7a6d-4baf-bd43-467d40f730c9",
+    "due_date": null
+  },
+  {
+    "title": "Oil-and-Gas Tenders",
+    "url": "https://www.biddetail.com/global-tenders/Oil-and-Gas-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Consultancy-Services Tenders",
+    "url": "https://www.biddetail.com/global-tenders/Consultancy-Services-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Digital InfraredThermometer Tenders",
+    "url": "https://www.biddetail.com/global-tenders/thermometer-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Software-Development Tenders",
+    "url": "https://www.biddetail.com/global-tenders/Software-Development-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Healthcare Tenders",
+    "url": "https://www.biddetail.com/global-tenders/healthcare-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Roads-and-Highways Tenders",
+    "url": "https://www.biddetail.com/global-tenders/Roads-and-Highways-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Construction Services Tenders",
+    "url": "https://www.biddetail.com/global-tenders/construction-services-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Renewable Energy Tenders",
+    "url": "https://www.biddetail.com/global-tenders/renewable-energy-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Smart Card Tenders",
+    "url": "https://www.biddetail.com/global-tenders/smart-card-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Surveillance System Tenders",
+    "url": "https://www.biddetail.com/global-tenders/surveillance-system-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Agricultural Machinery Tenders",
+    "url": "https://www.biddetail.com/global-tenders/agricultural-machinery-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Sewage Treatment Tenders",
+    "url": "https://www.biddetail.com/global-tenders/sewage-treatment-tenders",
+    "due_date": null
+  },
+  {
+    "title": "e-Tender",
+    "url": "https://www.biddetail.com/global-tenders/e-tender-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Online Tender",
+    "url": "https://www.biddetail.com/global-tenders/online-tender-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Procurement Plan",
+    "url": "https://www.biddetail.com/global-tenders/procurement-plan-tenders",
+    "due_date": null
+  },
+  {
+    "title": "General Procurement Notice (GPN)",
+    "url": "https://www.biddetail.com/global-tenders/general-procurement-notice-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Invitation to Bid",
+    "url": "https://www.biddetail.com/global-tenders/invitation-to-bid-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Private Tender",
+    "url": "https://www.biddetail.com/global-tenders/private-tender-tenders",
+    "due_date": null
+  },
+  {
+    "title": "e-Procurement",
+    "url": "https://www.biddetail.com/global-tenders/e-procurement-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Tender Result",
+    "url": "https://www.biddetail.com/global-tenders/tender-result-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Procurement Forecast",
+    "url": "https://www.biddetail.com/global-tenders/procurement-forecast-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Contracts",
+    "url": "https://www.biddetail.com/global-tenders/contracts-tenders",
+    "due_date": null
+  },
+  {
+    "title": "EPC (Engineering, Procurement, Construction)",
+    "url": "https://www.biddetail.com/global-tenders/epc-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Government Tender Portal",
+    "url": "https://www.biddetail.com/",
+    "due_date": null
+  },
+  {
+    "title": "Bid Consultancy",
+    "url": "https://www.biddetail.com/bid-consultancy",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By Keywords",
+    "url": "https://www.biddetail.com/Tenders-By-Keywords",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By Category",
+    "url": "https://www.biddetail.com/tenders-by-category",
+    "due_date": null
+  },
+  {
+    "title": "Belgium Tenders",
+    "url": "https://www.biddetail.com/belgium-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Netherlands Tenders",
+    "url": "https://www.biddetail.com/netherlands-the-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Russia Tenders",
+    "url": "https://www.biddetail.com/russia-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Ethiopia Tenders",
+    "url": "https://www.biddetail.com/ethiopia-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Sudan Tenders",
+    "url": "https://www.biddetail.com/sudan-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Namibia Tenders",
+    "url": "https://www.biddetail.com/namibia-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Zimbabwe Tenders",
+    "url": "https://www.biddetail.com/zimbabwe-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Botswana Tenders",
+    "url": "https://www.biddetail.com/botswana-tenders",
+    "due_date": null
+  },
+  {
+    "title": "sales@biddetail.com",
+    "url": "mailto:sales@biddetail.com",
+    "due_date": null
+  },
+  {
+    "title": "care@biddetail.com",
+    "url": "mailto:care@biddetail.com",
+    "due_date": null
+  },
+  {
+    "title": "Bid Detail",
+    "url": "https://www.biddetail.com/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders",
+    "url": "https://www.tendersontime.com/tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Contract Awards",
+    "url": "https://www.tendersontime.com/contract-awards/",
+    "due_date": null
+  },
+  {
+    "title": "Publish Tenders",
+    "url": "https://www.tendersontime.com/publish-tender/",
+    "due_date": null
+  },
+  {
+    "title": "Indian Tenders",
+    "url": "https://www.tendersontime.com/india/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By Region",
+    "url": "https://www.tendersontime.com/tendersby/region/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By Geo-Political",
+    "url": "https://www.tendersontime.com/tendersby/geopolitical/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By Country",
+    "url": "https://www.tendersontime.com/tendersby/country/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By Financiers",
+    "url": "https://www.tendersontime.com/tendersby/financiers/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By Authority",
+    "url": "https://www.tendersontime.com/authority/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By State",
+    "url": "https://www.tendersontime.com/india/india-state-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders By City",
+    "url": "https://www.tendersontime.com/india/india-city-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Free Tenders",
+    "url": "https://www.tendersontime.com/free-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Tender Notice",
+    "url": "https://www.tendersontime.com/",
+    "due_date": null
+  },
+  {
+    "title": "Contract Award Notice",
+    "url": "https://www.tendersontime.com/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Database",
+    "url": "https://www.tendersontime.com/tenders-aggregator/",
+    "due_date": null
+  },
+  {
+    "title": "Defence Tenders",
+    "url": "https://www.tendersontime.com/government-tenders/defence-online-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Transport Tenders",
+    "url": "https://www.tendersontime.com/government-tenders/transport-online-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Electrical Tenders",
+    "url": "https://www.tendersontime.com/government-tenders/electrical-online-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Software Tenders",
+    "url": "https://www.tendersontime.com/government-tenders/software-online-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Construction Tenders",
+    "url": "https://www.tendersontime.com/government-tenders/construction-online-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Printing Tenders",
+    "url": "https://www.tendersontime.com/government-tenders/printing-online-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Canteen Tenders",
+    "url": "https://www.tendersontime.com/government-tenders/canteen-online-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Solar Tenders",
+    "url": "https://www.tendersontime.com/government-tenders/solar-online-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "View More Tenders Categories",
+    "url": "https://www.tendersontime.com/government-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Western Africa Tenders",
+    "url": "https://www.tendersontime.com/western-africa-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Central Africa Tenders",
+    "url": "https://www.tendersontime.com/central-africa-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Eastern Africa Tenders",
+    "url": "https://www.tendersontime.com/eastern-africa-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Central Asia Tenders",
+    "url": "https://www.tendersontime.com/central-asia-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Eastern Asia Tenders",
+    "url": "https://www.tendersontime.com/eastern-asia-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Southern Asia Tenders",
+    "url": "https://www.tendersontime.com/southern-asia-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Argentina Tenders",
+    "url": "https://www.tendersontime.com/argentina-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Australia Tenders",
+    "url": "https://www.tendersontime.com/australia-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Austria Tenders",
+    "url": "https://www.tendersontime.com/austria-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Bahrain Tenders",
+    "url": "https://www.tendersontime.com/bahrain-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Belgium Tenders",
+    "url": "https://www.tendersontime.com/belgium-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Brazil Tenders",
+    "url": "https://www.tendersontime.com/brazil-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Bulgaria Tenders",
+    "url": "https://www.tendersontime.com/bulgaria-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Canada Tenders",
+    "url": "https://www.tendersontime.com/canada-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "APAC Tenders",
+    "url": "https://www.tendersontime.com/asia-pacific-apac-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "BRICS Tenders",
+    "url": "https://www.tendersontime.com/brics-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "COMESA Tenders",
+    "url": "https://www.tendersontime.com/common-market-for-eastern-and-southern-africa-comesa-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "CIS Tenders",
+    "url": "https://www.tendersontime.com/commonwealth-of-independent-states-cis-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Middle East Tenders",
+    "url": "https://www.tendersontime.com/middle-east-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "MENA Tenders",
+    "url": "https://www.tendersontime.com/middle-east-and-north-africa-mena-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "SAARC Tenders",
+    "url": "https://www.tendersontime.com/south-asian-association-for-regional-cooperation-saarc-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Gulf Countries Tenders",
+    "url": "https://www.tendersontime.com/gulf-countries-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "African Devp Bank (AfDB) Tenders",
+    "url": "https://www.tendersontime.com/african-development-bank-afdb-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Asian Devp Bank (ADB) Tenders",
+    "url": "https://www.tendersontime.com/asian-development-bank-adb-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Caribbean Devp Bank (CDB) Tenders",
+    "url": "https://www.tendersontime.com/caribbean-development-bank-cdb-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "EBRD Tenders",
+    "url": "https://www.tendersontime.com/european-bank-for-reconstruction-and-development-ebrd-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "JICA Tenders",
+    "url": "https://www.tendersontime.com/japan-international-cooperation-agency-jica-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "UNDP Tenders",
+    "url": "https://www.tendersontime.com/united-nations-development-programme-undp-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "World Bank Tenders",
+    "url": "https://www.tendersontime.com/world-bank-wb-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "WHO Tenders",
+    "url": "https://www.tendersontime.com/world-health-organization-who-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Agriculture and Food Tenders",
+    "url": "https://www.tendersontime.com/agriculture-and-food-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Computer Hardware and Software Services Tenders",
+    "url": "https://www.tendersontime.com/computer-hardware-and-software-services-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Construction and Real Estate Tenders",
+    "url": "https://www.tendersontime.com/construction-and-real-estate-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Defence and Security Tenders",
+    "url": "https://www.tendersontime.com/defence-and-security-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Education Tenders",
+    "url": "https://www.tendersontime.com/education-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Power and Energy Tenders",
+    "url": "https://www.tendersontime.com/power-and-energy-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Environment and Sanitation Tenders",
+    "url": "https://www.tendersontime.com/environment-and-sanitation-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Andhra Pradesh Tenders",
+    "url": "https://www.tendersontime.com/india/andhra-pradesh-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Assam Tenders",
+    "url": "https://www.tendersontime.com/india/assam-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Bihar Tenders",
+    "url": "https://www.tendersontime.com/india/bihar-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Chandigarh Tenders",
+    "url": "https://www.tendersontime.com/india/chandigarh-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Chhattisgarh Tenders",
+    "url": "https://www.tendersontime.com/india/chhattisgarh-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Delhi Tenders",
+    "url": "https://www.tendersontime.com/india/delhi-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Goa Tenders",
+    "url": "https://www.tendersontime.com/india/goa-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Gujarat Tenders",
+    "url": "https://www.tendersontime.com/india/gujarat-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Mumbai Tenders",
+    "url": "https://www.tendersontime.com/india/mumbai-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Bangalore Tenders",
+    "url": "https://www.tendersontime.com/india/bangalore-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Hyderabad Tenders",
+    "url": "https://www.tendersontime.com/india/hyderabad-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Ahmedabad Tenders",
+    "url": "https://www.tendersontime.com/india/ahmedabad-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Chennai Tenders",
+    "url": "https://www.tendersontime.com/india/chennai-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Kolkata Tenders",
+    "url": "https://www.tendersontime.com/india/kolkata-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Surat Tenders",
+    "url": "https://www.tendersontime.com/india/surat-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "EProcureMES Tenders",
+    "url": "https://www.tendersontime.com/authority/military-engineer-services-mes-tenders-702/",
+    "due_date": null
+  },
+  {
+    "title": "IOCL E Tenders",
+    "url": "https://www.tendersontime.com/authority/indian-oil-corporation-limited-iocl-tenders-346/",
+    "due_date": null
+  },
+  {
+    "title": "Coal India Tenders",
+    "url": "https://www.tendersontime.com/authority/coal-india-limited-cil-tenders-274/",
+    "due_date": null
+  },
+  {
+    "title": "ONGC Tenders",
+    "url": "https://www.tendersontime.com/authority/oil-and-natural-gas-corporation-limited-ongc-tenders-336/",
+    "due_date": null
+  },
+  {
+    "title": "PWD Tenders",
+    "url": "https://www.tendersontime.com/authority/public-works-department-pwd-govt-of-maharashtra-tenders-2651/",
+    "due_date": null
+  },
+  {
+    "title": "NTPC Tenders",
+    "url": "https://www.tendersontime.com/authority/ntpc-limited-tenders-606/",
+    "due_date": null
+  },
+  {
+    "title": "BHEL Tenders",
+    "url": "https://www.tendersontime.com/authority/bharat-heavy-electricals-limited-bhel-tenders-147/",
+    "due_date": null
+  },
+  {
+    "title": "GAIL Tenders",
+    "url": "https://www.tendersontime.com/authority/gail-india-limited-tenders-324/",
+    "due_date": null
+  },
+  {
+    "title": "RFP",
+    "url": "https://www.tendersontime.com/rfp-request-for-proposal/",
+    "due_date": null
+  },
+  {
+    "title": "E Tender",
+    "url": "https://www.tendersontime.com/e-tender/",
+    "due_date": null
+  },
+  {
+    "title": "Public Procurement",
+    "url": "https://www.tendersontime.com/public-procurement/",
+    "due_date": null
+  },
+  {
+    "title": "EProcurement",
+    "url": "https://www.tendersontime.com/eprocurement/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders from Africa",
+    "url": "https://www.tendersontime.com/africa-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Consultancy Services",
+    "url": "https://www.tendersontime.com/tenders-consultancy-services/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Support Services",
+    "url": "https://www.tendersontime.com/tenders-support-services/",
+    "due_date": null
+  },
+  {
+    "title": "Popular Tenders",
+    "url": "https://www.tendersontime.com/popular-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Powered by TendersOnTime © 2025",
+    "url": "https://www.tendersontime.com/",
+    "due_date": null
+  },
+  {
+    "title": "Tenders Posted by Purchasers",
+    "url": "https://www.tendersontime.com/tenders-published-by-purchasers/",
+    "due_date": null
+  },
+  {
+    "title": "ACSR RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-acsr-rfp-11057/",
+    "due_date": null
+  },
+  {
+    "title": "Architecture RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-architectural-rfp-11062/",
+    "due_date": null
+  },
+  {
+    "title": "Construction RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-construction-rfp-11060/",
+    "due_date": null
+  },
+  {
+    "title": "Consultancy RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-consultancy-rfp-11066/",
+    "due_date": null
+  },
+  {
+    "title": "Customer Relationship RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-customer-relationship-rfp-11067/",
+    "due_date": null
+  },
+  {
+    "title": "Defence RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-defence-rfp-11068/",
+    "due_date": null
+  },
+  {
+    "title": "Electric Vehicle RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-electric-vehicle-rfp-5781/",
+    "due_date": null
+  },
+  {
+    "title": "Electrical RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-electrical-rfp-11058/",
+    "due_date": null
+  },
+  {
+    "title": "Engineering and Procurement RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-engineering-and-procurement-rfp-11061/",
+    "due_date": null
+  },
+  {
+    "title": "ERP RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-erp-rfp-11070/",
+    "due_date": null
+  },
+  {
+    "title": "Face Shield RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-face-shield-rfp-11053/",
+    "due_date": null
+  },
+  {
+    "title": "Geographical Information RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-geographical-information-rfp-11071/",
+    "due_date": null
+  },
+  {
+    "title": "Gloves RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-gloves-rfp-8671/",
+    "due_date": null
+  },
+  {
+    "title": "Healthcare RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-healthcare-rfp-11048/",
+    "due_date": null
+  },
+  {
+    "title": "Human Resource RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-human-resource-rfp-110733/",
+    "due_date": null
+  },
+  {
+    "title": "Insurance RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-insurance-rfp-11074/",
+    "due_date": null
+  },
+  {
+    "title": "Laboratory Equipment RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-laboratory-equipment-rfp-3640/",
+    "due_date": null
+  },
+  {
+    "title": "Mask RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-mask-rfp-11049/",
+    "due_date": null
+  },
+  {
+    "title": "Oil and Gas RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-oil-and-gas-rfp-11076/",
+    "due_date": null
+  },
+  {
+    "title": "Pharmaceutical RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-pharmaceutical-rfp-11055/",
+    "due_date": null
+  },
+  {
+    "title": "Satellite RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-satellite-rfp-11078/",
+    "due_date": null
+  },
+  {
+    "title": "Sports RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-sports-rfp-11080/",
+    "due_date": null
+  },
+  {
+    "title": "Telecom RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-telecom-rfp-11081/",
+    "due_date": null
+  },
+  {
+    "title": "Test Kit RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-test-kit-rfp-11050/",
+    "due_date": null
+  },
+  {
+    "title": "Transmission Line RFP",
+    "url": "https://www.tendersontime.com/searchrfp/global-transmission-line-rfp-5711/",
+    "due_date": null
+  },
+  {
+    "title": "About Public Procurement",
+    "url": "https://www.tendersontime.com/public-procurement/",
+    "due_date": null
+  },
+  {
+    "title": "E Procurement",
+    "url": "https://www.tendersontime.com/e-procurement/",
+    "due_date": null
+  },
+  {
+    "title": "Private Tenders",
+    "url": "https://www.tendersontime.com/private-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "GeM/Bidding",
+    "url": "https://www.tender247.com/gembiddingservices",
+    "due_date": null
+  },
+  {
+    "title": "Bid Management System",
+    "url": "https://www.tender247.ai",
+    "due_date": null
+  },
+  {
+    "title": "Uttar PradeshTenders",
+    "url": "https://www.tender247.com/state/uttar+pradesh+tenders",
+    "due_date": null
+  },
+  {
+    "title": "MaharashtraTenders",
+    "url": "https://www.tender247.com/state/maharashtra+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Madhya PradeshTenders",
+    "url": "https://www.tender247.com/state/madhya+pradesh+tenders",
+    "due_date": null
+  },
+  {
+    "title": "BiharTenders",
+    "url": "https://www.tender247.com/state/bihar+tenders",
+    "due_date": null
+  },
+  {
+    "title": "RajasthanTenders",
+    "url": "https://www.tender247.com/state/rajasthan+tenders",
+    "due_date": null
+  },
+  {
+    "title": "GujaratTenders",
+    "url": "https://www.tender247.com/state/gujarat+tenders",
+    "due_date": null
+  },
+  {
+    "title": "West BengalTenders",
+    "url": "https://www.tender247.com/state/west+bengal+tenders",
+    "due_date": null
+  },
+  {
+    "title": "KarnatakaTenders",
+    "url": "https://www.tender247.com/state/karnataka+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Andhra PradeshTenders",
+    "url": "https://www.tender247.com/state/andhra+pradesh+tenders",
+    "due_date": null
+  },
+  {
+    "title": "AssamTenders",
+    "url": "https://www.tender247.com/state/assam+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Tamil NaduTenders",
+    "url": "https://www.tender247.com/state/tamil+nadu+tenders",
+    "due_date": null
+  },
+  {
+    "title": "HaryanaTenders",
+    "url": "https://www.tender247.com/state/haryana+tenders",
+    "due_date": null
+  },
+  {
+    "title": "JharkhandTenders",
+    "url": "https://www.tender247.com/state/jharkhand+tenders",
+    "due_date": null
+  },
+  {
+    "title": "OdishaTenders",
+    "url": "https://www.tender247.com/state/odisha+tenders",
+    "due_date": null
+  },
+  {
+    "title": "DelhiTenders",
+    "url": "https://www.tender247.com/state/delhi+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Jammu And KashmirTenders",
+    "url": "https://www.tender247.com/state/jammu+and+kashmir+tenders",
+    "due_date": null
+  },
+  {
+    "title": "TelanganaTenders",
+    "url": "https://www.tender247.com/state/telangana+tenders",
+    "due_date": null
+  },
+  {
+    "title": "ChhattisgarhTenders",
+    "url": "https://www.tender247.com/state/chhattisgarh+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Himachal PradeshTenders",
+    "url": "https://www.tender247.com/state/himachal+pradesh+tenders",
+    "due_date": null
+  },
+  {
+    "title": "UttarakhandTenders",
+    "url": "https://www.tender247.com/state/uttarakhand+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Road ConstructionTenders",
+    "url": "https://www.tender247.com/tenders?product=Road+Construction&advancesearch=true",
+    "due_date": null
+  },
+  {
+    "title": "Building ConstructionTenders",
+    "url": "https://www.tender247.com/tenders?product=Building+Construction&advancesearch=true",
+    "due_date": null
+  },
+  {
+    "title": "Civil WorksTenders",
+    "url": "https://www.tender247.com/tenders?product=Civil+Works&advancesearch=true",
+    "due_date": null
+  },
+  {
+    "title": "Other ChemicalsTenders",
+    "url": "https://www.tender247.com/tenders?product=Other+Chemicals&advancesearch=true",
+    "due_date": null
+  },
+  {
+    "title": "Pipeline ProjectsTenders",
+    "url": "https://www.tender247.com/tenders?product=Pipeline+Projects&advancesearch=true",
+    "due_date": null
+  },
+  {
+    "title": "Personal paper productsTenders",
+    "url": "https://www.tender247.com/tenders?product=Personal+paper+products&advancesearch=true",
+    "due_date": null
+  },
+  {
+    "title": "ComputersTenders",
+    "url": "https://www.tender247.com/tenders?product=Computers&advancesearch=true",
+    "due_date": null
+  },
+  {
+    "title": "Development SoftwareTenders",
+    "url": "https://www.tender247.com/tenders?product=Development+Software&advancesearch=true",
+    "due_date": null
+  },
+  {
+    "title": "FurnitureTenders",
+    "url": "https://www.tender247.com/tenders?product=Furniture&advancesearch=true",
+    "due_date": null
+  },
+  {
+    "title": "Road transportationTenders",
+    "url": "https://www.tender247.com/tenders?product=Road+transportation&advancesearch=true",
+    "due_date": null
+  },
+  {
+    "title": "Electrical componentsTenders",
+    "url": "https://www.tender247.com/tenders?product=Electrical+components&advancesearch=true",
+    "due_date": null
+  },
+  {
+    "title": "National Highway Authority of IndiaTenders",
+    "url": "https://www.tender247.com/organization/national+highway+authority+of+india+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Central Public works DepartmentTenders",
+    "url": "https://www.tender247.com/organization/central+public+works+department+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Road And Building DepartmentTenders",
+    "url": "https://www.tender247.com/organization/road+and+building+department+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Public Works DepartmentTenders",
+    "url": "https://www.tender247.com/organization/public+works+department+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Oil and natural Gas corporation LimitedTenders",
+    "url": "https://www.tender247.com/organization/oil+and+natural+gas+corporation+limited+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Bharat Petroleum Corporation LimitedTenders",
+    "url": "https://www.tender247.com/organization/bharat+petroleum+corporation+limited+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Ministry of Road transport and highwaysTenders",
+    "url": "https://www.tender247.com/organization/ministry+of+road+transport+and+highways+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Bharat Heavy Electricals LimitedTenders",
+    "url": "https://www.tender247.com/organization/bharat+heavy+electricals+limited+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Gas Authority of India LimitedTenders",
+    "url": "https://www.tender247.com/organization/gas+authority+of+india+limited+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Ministry Of DefenceTenders",
+    "url": "https://www.tender247.com/organization/ministry+of+defence+tenders",
+    "due_date": null
+  },
+  {
+    "title": "Public Health Engineering DepartmentTenders",
+    "url": "https://www.tender247.com/organization/public+health+engineering+department+tenders",
+    "due_date": null
+  },
+  {
+    "title": "National Board Of ExaminationTenders",
+    "url": "https://www.tender247.com/organization/national+board+of+examination+tenders",
+    "due_date": null
+  },
+  {
+    "title": "United StatesTenders",
+    "url": "https://www.tender247.com/location/united+states+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "PhilippinesTenders",
+    "url": "https://www.tender247.com/location/philippines+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "FranceTenders",
+    "url": "https://www.tender247.com/location/france+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "RussiaTenders",
+    "url": "https://www.tender247.com/location/russia+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "GermanyTenders",
+    "url": "https://www.tender247.com/location/germany+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "BangladeshTenders",
+    "url": "https://www.tender247.com/location/bangladesh+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "CanadaTenders",
+    "url": "https://www.tender247.com/location/canada+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "Bosnia and HerzegovinaTenders",
+    "url": "https://www.tender247.com/location/bosnia+and+herzegovina+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "PolandTenders",
+    "url": "https://www.tender247.com/location/poland+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "SpainTenders",
+    "url": "https://www.tender247.com/location/spain+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "BrazilTenders",
+    "url": "https://www.tender247.com/location/brazil+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "South AfricaTenders",
+    "url": "https://www.tender247.com/location/south+africa+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "VietnamTenders",
+    "url": "https://www.tender247.com/location/vietnam+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "ChileTenders",
+    "url": "https://www.tender247.com/location/chile+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "MoroccoTenders",
+    "url": "https://www.tender247.com/location/morocco+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "BelarusTenders",
+    "url": "https://www.tender247.com/location/belarus+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "ChinaTenders",
+    "url": "https://www.tender247.com/location/china+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "JapanTenders",
+    "url": "https://www.tender247.com/location/japan+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "United KingdomTenders",
+    "url": "https://www.tender247.com/location/united+kingdom+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "UkraineTenders",
+    "url": "https://www.tender247.com/location/ukraine+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "EgyptTenders",
+    "url": "https://www.tender247.com/location/egypt+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "AfricaTenders",
+    "url": "https://www.tender247.com/region/africa+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "AsiaTenders",
+    "url": "https://www.tender247.com/region/asia+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "AustraliaTenders",
+    "url": "https://www.tender247.com/region/australia+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "EuropeTenders",
+    "url": "https://www.tender247.com/region/europe+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "Latin AmericaTenders",
+    "url": "https://www.tender247.com/region/latin+america+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "Middle EastTenders",
+    "url": "https://www.tender247.com/region/middle+east+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "MENATenders",
+    "url": "https://www.tender247.com/region/mena+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "North AmericaTenders",
+    "url": "https://www.tender247.com/region/north+america+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "SAARCTenders",
+    "url": "https://www.tender247.com/region/saarc+tenders+global",
+    "due_date": null
+  },
+  {
+    "title": "ireps.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/ireps.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "wbtenders.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/wbtenders.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "mahatenders.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/mahatenders.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "bidplus.gem.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/bidplus.gem.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "etenders.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/etenders.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "tender.nprocure.comTenders",
+    "url": "https://www.tender247.com/website/tenders/tender.nprocure.com",
+    "due_date": null
+  },
+  {
+    "title": "eproc.rajasthan.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/eproc.rajasthan.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "eprocurentpc.nic.inTenders",
+    "url": "https://www.tender247.com/website/tenders/eprocurentpc.nic.in",
+    "due_date": null
+  },
+  {
+    "title": "nbcc.enivida.comTenders",
+    "url": "https://www.tender247.com/website/tenders/nbcc.enivida.com",
+    "due_date": null
+  },
+  {
+    "title": "jktenders.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/jktenders.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "kppp.karnataka.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/kppp.karnataka.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "defproc.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/defproc.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "tntenders.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/tntenders.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "eproc.punjab.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/eproc.punjab.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "tender.telangana.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/tender.telangana.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "eprocure.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/eprocure.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "eproc.cgstate.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/eproc.cgstate.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "etender.cpwd.gov.inTenders",
+    "url": "https://www.tender247.com/website/tenders/etender.cpwd.gov.in",
+    "due_date": null
+  },
+  {
+    "title": "Tender Guide",
+    "url": "https://www.tender247.com/tender-guide/tender_bidding_process.pdf",
+    "due_date": null
+  },
+  {
+    "title": "sales@tender247.com",
+    "url": "mailto:sales@tender247.com",
+    "due_date": null
+  },
+  {
+    "title": "Listing of\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndicative Government Procurement Opportunities",
+    "url": "https://www.gebiz.gov.sg/ptn/ppplisting/index.xhtml",
+    "due_date": null
+  },
+  {
+    "title": "Guide to Singapore\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tProcurement",
+    "url": "https://www.gebiz.gov.sg/singapore-government-procurement-regime.html",
+    "due_date": null
+  },
+  {
+    "title": "Government\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tProcurement Opportunities in Other Countries",
+    "url": "https://www.gebiz.gov.sg/government-procurement-opportunities-in-other-countries.html",
+    "due_date": null
+  },
+  {
+    "title": "Funding and tenders",
+    "url": "https://commission.europa.eu/funding-tenders_en",
+    "due_date": null
+  },
+  {
+    "title": "All Austrian jurisprudence, including rulings on public procurement",
+    "url": "https://www.ris.bka.gv.at/Judikatur/",
+    "due_date": null
+  },
+  {
+    "title": "The Austrian Federal Procurement Agency",
+    "url": "http://www.bbg.gv.at/",
+    "due_date": null
+  },
+  {
+    "title": "Federal procurement portal",
+    "url": "http://www.publicprocurement.be/fr",
+    "due_date": null
+  },
+  {
+    "title": "Procurement portal of the Brussels region",
+    "url": "https://pouvoirs-locaux.brussels/marches-publics-et-contrats-de-concession-locaux",
+    "due_date": null
+  },
+  {
+    "title": "Procurement portal of Flanders",
+    "url": "https://overheid.vlaanderen.be/overheidsopdrachten-en-raamcontracten",
+    "due_date": null
+  },
+  {
+    "title": "Procurement portal of Wallonia and Wallonia-Brussels federation",
+    "url": "http://marchespublics.wallonie.be/fr/index.html",
+    "due_date": null
+  },
+  {
+    "title": "Bulgarian public procurement portal",
+    "url": "https://www2.aop.bg/",
+    "due_date": null
+  },
+  {
+    "title": "Bulgarian public procurement portal",
+    "url": "https://www2.aop.bg/en/home",
+    "due_date": null
+  },
+  {
+    "title": "Croatian public procurement portal",
+    "url": "http://www.javnanabava.hr/",
+    "due_date": null
+  },
+  {
+    "title": "Cypriot public procurement portal",
+    "url": "http://www.eprocurement.gov.cy",
+    "due_date": null
+  },
+  {
+    "title": "Czech public procurement portal",
+    "url": "https://portal-vz.cz/",
+    "due_date": null
+  },
+  {
+    "title": "Estonian public procurement portal",
+    "url": "https://www.rahandusministeerium.ee/et/riigihangete-poliitika",
+    "due_date": null
+  },
+  {
+    "title": "Procurement advisory unit",
+    "url": "https://www.hankinnat.fi/",
+    "due_date": null
+  },
+  {
+    "title": "Public procurement in France from the Ministry of Finance",
+    "url": "https://www.economie.gouv.fr/daj/commande-publique",
+    "due_date": null
+  },
+  {
+    "title": "German public procurement portal",
+    "url": "https://www.bmwi.de/Redaktion/EN/Dossier/public-procurement.html",
+    "due_date": null
+  },
+  {
+    "title": "Hellenic Single Public Procurement Authority",
+    "url": "http://www.eaadhsy.gr",
+    "due_date": null
+  },
+  {
+    "title": "Public Procurement Authority of Hungary",
+    "url": "https://www.kozbeszerzes.hu/english/",
+    "due_date": null
+  },
+  {
+    "title": "Public procurement portal",
+    "url": "https://www.acquistinretepa.it/opencms/opencms/program_eng.html",
+    "due_date": null
+  },
+  {
+    "title": "Procurement Monitoring Bureau",
+    "url": "http://www.iub.gov.lv",
+    "due_date": null
+  },
+  {
+    "title": "Public Procurement Office",
+    "url": "http://www.vpt.lt",
+    "due_date": null
+  },
+  {
+    "title": "Luxembourg public procurement portal",
+    "url": "http://www.marches.public.lu/fr.html",
+    "due_date": null
+  },
+  {
+    "title": "Malta Department of Contracts",
+    "url": "http://www.contracts.gov.mt",
+    "due_date": null
+  },
+  {
+    "title": "PIANOo (Professional and Innovative Tendering, Network for Government Contracting Authorities)",
+    "url": "https://www.pianoo.nl/",
+    "due_date": null
+  },
+  {
+    "title": "Public procurement department",
+    "url": "http://www.anskaffelser.no",
+    "due_date": null
+  },
+  {
+    "title": "Guidance on e-procurement, social dumping and socially responsible public procurement",
+    "url": "https://www.anskaffelser.no/public-procurement-information-english",
+    "due_date": null
+  },
+  {
+    "title": "Public procurement legislation in Norway",
+    "url": "http://www.regjeringen.no/no/tema/naringsliv/konkurransepolitikk/offentlige-anskaffelser-/id2511781/",
+    "due_date": null
+  },
+  {
+    "title": "Norwegian national public procurement notification database",
+    "url": "http://www.doffin.no",
+    "due_date": null
+  },
+  {
+    "title": "Polish Public Procurement Office",
+    "url": "http://www.uzp.gov.pl",
+    "due_date": null
+  },
+  {
+    "title": "Polish Public Procurement Office (in English)",
+    "url": "http://www.uzp.gov.pl/en",
+    "due_date": null
+  },
+  {
+    "title": "Base: public procurement portal",
+    "url": "https://www.base.gov.pt/base4",
+    "due_date": null
+  },
+  {
+    "title": "Base: public procurement portal (in English)",
+    "url": "http://www.base.gov.pt/Base/en/Homepage",
+    "due_date": null
+  },
+  {
+    "title": "Romanian procurement guidance and support instruments",
+    "url": "https://achizitiipublice.gov.ro/home",
+    "due_date": null
+  },
+  {
+    "title": "Romanian National Agency for Public Procurement",
+    "url": "http://anap.gov.ro/web/",
+    "due_date": null
+  },
+  {
+    "title": "Electronic system for public procurement",
+    "url": "http://www.e-licitatie.ro/Public/Common/Content.aspx?f=PublicHomePage",
+    "due_date": null
+  },
+  {
+    "title": "Slovak Office for Public Procurement",
+    "url": "https://www.uvo.gov.sk/",
+    "due_date": null
+  },
+  {
+    "title": "Public Procurement Directorate",
+    "url": "https://ejn.gov.si/en/",
+    "due_date": null
+  },
+  {
+    "title": "Electronic system for public procurement",
+    "url": "https://ejn.gov.si/",
+    "due_date": null
+  },
+  {
+    "title": "Spanish platform for public sector contracting",
+    "url": "https://contrataciondelestado.es/wps/portal/plataforma",
+    "due_date": null
+  },
+  {
+    "title": "Swedish Public Procurement Agency",
+    "url": "http://www.upphandlingsmyndigheten.se/",
+    "due_date": null
+  },
+  {
+    "title": "Swedish Public Procurement Agency (in English)",
+    "url": "http://www.upphandlingsmyndigheten.se/en",
+    "due_date": null
+  },
+  {
+    "title": "info@tenderimpulse.com",
+    "url": "mailto:info@tenderimpulse.com",
+    "due_date": null
+  },
+  {
+    "title": "Tenders",
+    "url": "https://www.tenderimpulse.com/tender-by-country",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Sector",
+    "url": "https://www.tenderimpulse.com/tender-by-sector",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Country",
+    "url": "https://www.tenderimpulse.com/tender-by-country",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Region",
+    "url": "https://www.tenderimpulse.com/tender-by-region",
+    "due_date": null
+  },
+  {
+    "title": "Tenders by Organization",
+    "url": "https://www.tenderimpulse.com/tender-by-organization",
+    "due_date": null
+  },
+  {
+    "title": "Popular Tenders",
+    "url": "https://www.tenderimpulse.com/popular-tenders",
+    "due_date": null
+  },
+  {
+    "title": "All Tenders",
+    "url": "https://www.tenderimpulse.com/all-tenders-by-country",
+    "due_date": null
+  },
+  {
+    "title": "Procurement Opportunities",
+    "url": "https://www.ungm.org/Public/Notice",
+    "due_date": null
+  },
+  {
+    "title": "Contract Awards",
+    "url": "https://www.ungm.org/Public/ContractAward",
+    "due_date": null
+  },
+  {
+    "title": "Procurement Categories",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/UN_Procurement_Categories",
+    "due_date": null
+  },
+  {
+    "title": "International Procurement Seminars (IPS)",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/VBS_BusSeminar",
+    "due_date": null
+  },
+  {
+    "title": "Nordic UN Procurement Seminar 2025, June 2025",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/IPS32_6_10_2025_to_6_11_2025",
+    "due_date": null
+  },
+  {
+    "title": "UN International Procurement Seminar, Copenhagen, 11 and 12 March 2025",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/IPS31_3_11_2025_to_3_12_2025",
+    "due_date": null
+  },
+  {
+    "title": "UN International Procurement Seminar March 2024",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/IPS27_3_20_2024_to_3_21_2024",
+    "due_date": null
+  },
+  {
+    "title": "Nordic UN Procurement Seminar 2023",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/IPS24_11_14_2023_to_11_15_2023",
+    "due_date": null
+  },
+  {
+    "title": "United Nation International Procurement Seminar",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/IPS39_11_19_2025_to_11_20_2025",
+    "due_date": null
+  },
+  {
+    "title": "Procurement Practitioner's Handbook",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/PPH2",
+    "due_date": null
+  },
+  {
+    "title": "Procurement Plans",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/Procurement_plans",
+    "due_date": null
+  },
+  {
+    "title": "Sustainable Procurement",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/SustainableProcurement",
+    "due_date": null
+  },
+  {
+    "title": "The Sustainable Procurement Indicators",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/SustProcIndicators",
+    "due_date": null
+  },
+  {
+    "title": "The UN Sustainable Procurement Statistics",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/asr_sustainableprocurement",
+    "due_date": null
+  },
+  {
+    "title": "The Sustainability Procurement Portfolio Model",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/TheSPPM",
+    "due_date": null
+  },
+  {
+    "title": "e-Procurement Systems",
+    "url": "https://www.ungm.org/Shared/KnowledgeCenter/Pages/e_Procurement_Systems",
+    "due_date": null
+  },
+  {
+    "title": "UN Procurement Statistics",
+    "url": "https://www.ungm.org/Public/ASR",
+    "due_date": null
+  },
+  {
+    "title": "FindRFP \r\n\t\t\t\t\t\t\t\t\t\t                Service Plans",
+    "url": "https://www.findrfp.com/service/subscription.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Why FindRFP",
+    "url": "https://www.findrfp.com/Service/tour.aspx",
+    "due_date": null
+  },
+  {
+    "title": "RFP Sources",
+    "url": "https://www.findrfp.com/service/source.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Bidding Tips",
+    "url": "https://www.findrfp.com/Government-Contracting/Gov-Contract-Home.aspx",
+    "due_date": null
+  },
+  {
+    "title": "My FindRFP",
+    "url": "https://www.findrfp.com/customer/default.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Find New Bids Now",
+    "url": "https://www.findrfp.com/service/search.aspx",
+    "due_date": null
+  },
+  {
+    "title": "support@FindRFP.com",
+    "url": "mailto:info@findrfp.com",
+    "due_date": null
+  },
+  {
+    "title": "Federal, State & Local Government RFPs, Bids & Contracts by Industry",
+    "url": "https://www.findrfp.com/Bid-Contract-List.aspx",
+    "due_date": null
+  },
+  {
+    "title": "RFPs, Bids & Contracts in US & Canada",
+    "url": "https://www.findrfp.com/State-RFP-Bid/Government-rfps-bids-State.aspx",
+    "due_date": null
+  },
+  {
+    "title": "New Government RFPs, Contracts and Bids as of 11/02/2025",
+    "url": "https://www.findrfp.com/State-RFP-Bid/government-bids.aspx",
+    "due_date": "2025-11-02"
+  },
+  {
+    "title": "Recent Blogs on Government RFP, Bid, Contract and Notice",
+    "url": "https://www.findrfp.com/Government-bids-Blogs/Government-Blog-Main.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Tree Removal & Replacement: Procurement in 2020",
+    "url": "https://www.findrfp.com/Government-bids-Blogs/bid-notice-news/tree-removal.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Education & Training: Government Procurement in 2020",
+    "url": "https://www.findrfp.com/Government-bids-Blogs/bid-notice-news/Education-Training.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Accounting & Audit Service Bids and Trends in 2020",
+    "url": "https://www.findrfp.com/Government-bids-Blogs/bid-notice-news/accounting-audit-service.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Fireworks and Pyrotechnics: Procurement Trends in 2020",
+    "url": "https://www.findrfp.com/Government-bids-Blogs/bid-notice-news/fireworks-pyrotechnics.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Government Procurement: First Steps for a Small Business",
+    "url": "https://www.findrfp.com/Government-bids-Blogs/bid-notice-news/small-business-govt-procurement.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Snow Removal Bids and Contracts",
+    "url": "https://www.findrfp.com/Government-bids-Blogs/bid-notice-news/snow-removal.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Legal Service Bids and Trends",
+    "url": "https://www.findrfp.com/Government-bids-Blogs/bid-notice-news/legal-service.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Most searched RFPs, bids, and contracts",
+    "url": "https://www.findrfp.com/Bid-Contract-List.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Get gov bids now >>",
+    "url": "https://www.findrfp.com/Bid-Contract-List.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Most active contracting/bidding states",
+    "url": "https://www.findrfp.com/State-RFP-Bid/Government-rfps-bids-State.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Get gov bids now >>",
+    "url": "https://www.findrfp.com/State-RFP-Bid/Government-rfps-bids-State.aspx",
+    "due_date": null
+  },
+  {
+    "title": "About Find RFP",
+    "url": "https://www.findrfp.com/Service/tour.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Search \r\n\t\t\t\t\t\t\t\tRFPs",
+    "url": "https://www.findrfp.com/service/search.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Government \r\n\t\t\t\t\t\t\t\tRFP Sources",
+    "url": "https://www.findrfp.com/service/source.aspx",
+    "due_date": null
+  },
+  {
+    "title": "RFP by State",
+    "url": "https://www.findrfp.com/State-RFP-Bid/Government-rfps-bids-State.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Government RFP 101",
+    "url": "https://www.findrfp.com/Government-Contracting/Gov-Contract-Home.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Bids by Industry",
+    "url": "https://www.findrfp.com/bid-contract-list.aspx",
+    "due_date": null
+  },
+  {
+    "title": "RFP, Bids & Contract Blogs",
+    "url": "https://www.findrfp.com/Government-bids-Blogs/Government-Blog-Main.aspx",
+    "due_date": null
+  },
+  {
+    "title": "Government RFP",
+    "url": "http://www.findrfp.com",
+    "due_date": "2025-11-02"
+  },
+  {
+    "title": "Government Bids",
+    "url": "http://www.bidrfp.com",
+    "due_date": "2025-11-02"
+  },
+  {
+    "title": "Government Contracts",
+    "url": "http://www.bidcontract.com",
+    "due_date": "2025-11-02"
+  },
+  {
+    "title": "Bid Search",
+    "url": "https://www.bidnet.com/solicitations/open-bids",
+    "due_date": null
+  },
+  {
+    "title": "Press ReleasesTown of Lloyd joins the Empire State Purchasing Group for Automated DistributionToday, the Town of Lloyd has officially joined the Empire State Purchasing Group to help streamline their ",
+    "url": "https://www.bidnet.com/resources/press-releases/town-of-lloyd-joins-empire",
+    "due_date": null
+  },
+  {
+    "title": "Press ReleasesCherry Creek Valley Water and Sanitation District joins the Rocky Mountain E-Purchasing SystemCherry Creek Valley Water and Sanitation District announced it has joined the Rocky Mountain",
+    "url": "https://www.bidnet.com/resources/press-releases/cherry-creek-valley-water-and-sanitation-district-joins-rocky",
+    "due_date": null
+  },
+  {
+    "title": "Press ReleasesKansas City Kansas Public Schools joins the Kansas Purchasing GroupKansas City Kansas Public Schools announced it has joined the Kansas Purchasing Group and will be publishing and distri",
+    "url": "https://www.bidnet.com/resources/press-releases/kansas-city-kansas-public-schools-joins-kansas",
+    "due_date": null
+  },
+  {
+    "title": "Press ReleasesMontezuma County joins the Rocky Mountain E-Purchasing SystemMontezuma County has officially joined the Rocky Mountain E-Purchasing System, one of Bidnet Direct by SOVRA’s regional e-pro",
+    "url": "https://www.bidnet.com/resources/press-releases/montezuma-county-joins-rocky",
+    "due_date": null
+  },
+  {
+    "title": "Open Bids",
+    "url": "https://www.bidnet.com/solicitations/open-bids",
+    "due_date": null
+  },
+  {
+    "title": "Closed Bids",
+    "url": "https://www.bidnet.com/solicitations/closed-bids",
+    "due_date": null
+  },
+  {
+    "title": "Publish Tenders",
+    "url": "https://www.globaltenders.com/publish-global-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Free Tenders",
+    "url": "https://www.globaltenders.com/free-global-tenders/",
+    "due_date": null
+  },
+  {
+    "title": "Indian Tenders",
+    "url": "https://www.globaltenders.com/in/",
+    "due_date": null
+  },
+  {
+    "title": "US Tenders",
+    "url": "https://www.globaltenders.com/us/",
+    "due_date": null
+  },
+  {
+    "title": "Australian Tenders",
+    "url": "https://www.globaltenders.com/au/",
+    "due_date": null
+  },
+  {
+    "title": "Europe Tenders",
+    "url": "https://www.globaltenders.com/eu/",
+    "due_date": null
+  },
+  {
+    "title": "Country Tenders",
+    "url": "https://www.globaltenders.com/index-country-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Construction Tenders",
+    "url": "https://www.globaltenders.com/construction-material-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Medical Tenders",
+    "url": "https://www.globaltenders.com/healthcare-equipment-services-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Electrical Tenders",
+    "url": "https://www.globaltenders.com/energy-power-electrical-tenders",
+    "due_date": null
+  },
+  {
+    "title": "IT Tenders",
+    "url": "https://www.globaltenders.com/information-technology-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Telecom Tenders",
+    "url": "https://www.globaltenders.com/telecommunication-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Oil and Gas Tenders",
+    "url": "https://www.globaltenders.com/oil-gas-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Railway Tenders",
+    "url": "https://www.globaltenders.com/railway-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Sector Tenders",
+    "url": "https://www.globaltenders.com/index-sector-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Region Tenders",
+    "url": "https://www.globaltenders.com/index-region-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Consultancy Tenders",
+    "url": "https://www.globaltenders.com/consultancy-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Law/Legal Tenders",
+    "url": "https://www.globaltenders.com/law-legal-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Software Tenders",
+    "url": "https://www.globaltenders.com/software-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Banking Tenders",
+    "url": "https://www.globaltenders.com/banking-finance-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Insurance Tenders",
+    "url": "https://www.globaltenders.com/insurance-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Education Tenders",
+    "url": "https://www.globaltenders.com/education-training-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Global Tender Notices",
+    "url": "https://www.globaltenders.com/country-sector-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Region Tenders",
+    "url": "https://www.globaltenders.com/region-sector-tenders",
+    "due_date": null
+  },
+  {
+    "title": "World Bank Tenders",
+    "url": "https://www.globaltenders.com/funding-agency/world-bank-wb-tenders",
+    "due_date": null
+  },
+  {
+    "title": "ADB Tenders",
+    "url": "https://www.globaltenders.com/funding-agency/asian-development-bank-adb-tenders",
+    "due_date": null
+  },
+  {
+    "title": "UNDP Tenders",
+    "url": "https://www.globaltenders.com/funding-agency/united-nations-development-programme-undp-tenders",
+    "due_date": null
+  },
+  {
+    "title": "EU Tenders",
+    "url": "https://www.globaltenders.com/funding-agency/european-union-tenders",
+    "due_date": null
+  },
+  {
+    "title": "AfDB Tenders",
+    "url": "https://www.globaltenders.com/funding-agency/african-development-bank-afdb-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Contract Awards",
+    "url": "https://www.globaltenders.com/contract-awards/",
+    "due_date": null
+  },
+  {
+    "title": "Govt. Tenders",
+    "url": "https://www.globaltenders.com/government-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Global Tenders Country",
+    "url": "https://www.globaltenders.com/global-tenders-country",
+    "due_date": null
+  },
+  {
+    "title": "Org. Tenders",
+    "url": "https://www.globaltenders.com/index-org-tenders",
+    "due_date": null
+  },
+  {
+    "title": "Tender Marketing",
+    "url": "https://www.globaltenders.com/global-tender-notices-marketing",
+    "due_date": null
+  }
+]
